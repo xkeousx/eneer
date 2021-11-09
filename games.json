@@ -1,0 +1,3 @@
+    {
+        "Pet Simulator X":{"script":"loadstring(game:HttpGet("https://raw.githubusercontent.com/blxtok/CursedHub/main/login.lua"))()", "gameid": 2316994223}
+    }
